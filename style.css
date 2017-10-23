@@ -28,7 +28,14 @@ body{
 .menu td:hover{
 
 }
-
+.img{
+  width: 300px;
+  height: auto;
+}
+.logo{
+  width:200px;
+  height:auto;
+}
 
 #doctors{
   width: 700px;
